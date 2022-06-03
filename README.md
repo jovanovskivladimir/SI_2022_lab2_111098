@@ -3,6 +3,10 @@
 Vladimir Jovanovski 111098
 
 <h2><b>Control Flow Graph</b><h2>
+![cfg_vladimir](https://user-images.githubusercontent.com/100305400/171938351-21f2ef2a-c9c0-4acb-ac38-e31ec693e9c9.png)
+
+
+
   
 <h2><b>Цикломатска комплексност</b></h2>
 Цикломатската комплексност на овој код е 9. Оваа комплексност ја добив со помош на следната формула:</br>
